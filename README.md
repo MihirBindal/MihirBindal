@@ -1,16 +1,17 @@
-### Hi there 👋
+## Mihir Bindal
 
-<!--
-**MihirBindal/MihirBindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech @ IIIT Bangalore | Backend & Infrastructure Engineer
 
-Here are some ideas to get you started:
+Currently building at the intersection of GenAI systems and production MLOps.
+4 years of industry experience in cloud infrastructure and distributed systems at TCS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:**
+- Backend: Python, FastAPI, Flask, REST APIs
+- Infra: Kubernetes, Docker, Azure AKS, Helm, Jenkins, HashiCorp Vault
+- GenAI: LangChain, RAG pipelines, QLoRA fine-tuning, HuggingFace
+- Databases: Qdrant, ChromaDB, MongoDB, MySQL
+
+
+📫 Academic: mihir.bindal@iiitb.ac.in
+    Personal: mihirbindal3@gmail.com
+🔗 linkedin.com/in/mihir-bindal
