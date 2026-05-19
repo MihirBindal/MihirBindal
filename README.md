@@ -14,7 +14,6 @@ Currently building at the intersection of GenAI systems and production MLOps.
 
 📫 Academic: mihir.bindal@iiitb.ac.in
 
-Personal: mihirbindal3@gmail.com
-
+📫 Personal: mihirbindal3@gmail.com
 
 🔗 linkedin.com/in/mihir-bindal
